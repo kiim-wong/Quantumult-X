@@ -2,7 +2,7 @@
 美豪酒店
 *******************************
 [rewrite_local]
-^https:\/\/api\.wx\.gcihotel\.net\/api\/shop url script-response-body https://raw.githubusercontent.com/kiim-wong/Shell/master/service/meihao.js
+^https:\/\/api\.wx\.gcihotel\.net\/api\/shop url script-response-body https://raw.githubusercontent.com/kiim-wong/Quantumult-X/main/ycdz/meihao.js
 [mitm] 
 hostname = api.wx.gcihotel.net
 *******************************/
