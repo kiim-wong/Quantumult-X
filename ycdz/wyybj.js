@@ -2,7 +2,7 @@
 网易云笔记解锁本地VIP
 *******************************
 [rewrite_local]
-^https:\/\/note\.youdao\.com\/yws\/mapi\/payment\?method= url script-response-body https://raw.githubusercontent.com/kiim-wong/Shell/master/service/wyybj.js
+^https:\/\/note\.youdao\.com\/yws\/mapi\/payment\?method= url script-response-body https://raw.githubusercontent.com/kiim-wong/Quantumult-X/main/ycdz/wyybj.js
 [mitm] 
 hostname = note.youdao.com
 *******************************/
